@@ -1,0 +1,20 @@
+{
+  "name": "task_jest_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikesh-mistri/calculator-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikesh-mistri/calculator-js/issues"
+  },
+  "homepage": "https://github.com/nikesh-mistri/calculator-js#readme"
+}
